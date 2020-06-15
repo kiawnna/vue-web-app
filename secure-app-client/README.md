@@ -1,4 +1,4 @@
-# s3-webapp
+# Simple Vue Webapp
 
 > A Vue.js project
 
